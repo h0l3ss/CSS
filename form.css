@@ -1,0 +1,57 @@
+
+    input[type=text], input[type=password], input[type=number], input[type=date], .labalabadu{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    }
+    input[type=text]:focus, input[type=password]:focus{
+    background-color: #ddd;
+    outline: none;
+    }
+
+    .labalabadu{
+        width: 100%;
+        padding: 15px;
+        margin: 5px 0 22px 0;
+        display: inline-block;
+        border: none;
+        background: #f1f1f1;
+    }
+
+    .registerbtn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+    }
+    .registerbtn:hover {
+    opacity: 1;
+    }
+    
+    a {
+    color: dodgerblue;
+    }
+    a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    }
+    a:hover {
+    background-color: #818181;
+    color: black;
+    }
+    .previous {
+    background-color: #ddd;
+    color: black;
+    }
+    .round {
+    border-radius: 50%;
+    }
+
